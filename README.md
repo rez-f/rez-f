@@ -1,5 +1,13 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frez-f&count_bg=%233D7FDD&title_bg=%2369777E&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+## About Me
 
-[![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rez-f&layout=compact&theme=radical&hide=HTML,CSS&langs_count=10)](https://github.com/rez-f)
+Hello I'm Rez. I'll do my best to describe myself, here is it:
+- 👨‍💻 I'm a Full Stack Developer.
+- 🔐 I like to explore Cybersecurity.
+- 📌 Currently I'm learning Microservices.
+- 🌚 I'm a Nocturn and Loving Cats 🐈.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rez-f&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+### Anything Else
+
+<img align="right" width="320px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rez-f&layout=compact&theme=radical&hide=HTML,CSS&langs_count=10">
+
+<img align="left" width="340px" src="https://github-readme-stats.vercel.app/api?username=rez-f&show_icons=true&count_private=true&include_all_commits=true&theme=radical">

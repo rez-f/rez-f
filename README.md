@@ -1,6 +1,6 @@
 ## About Me
 
-Hello I'm Rez. I'll do my best to describe myself, here is it:
+Hello I'm Rez.
 - 👨‍💻 I'm a Full Stack Developer.
 - 🔐 I like to explore Cybersecurity.
 - 📌 Currently I'm learning Microservices.

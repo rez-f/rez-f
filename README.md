@@ -1,12 +1,15 @@
 ## About Me
 
-Hello I'm Rez.
-- 👨‍💻 I'm a Full Stack Developer.
-- 🔐 I like to explore Cybersecurity.
-- 📌 Currently I'm learning Microservices.
-- 🌚 I'm a Nocturn and Loving Cats 🐈.
+Software Development, Cybersecurity, Cloud Computing & DevOps is my main interest. Currently I'm a Full Stack Developer and DevOps with application development and deployment responsibilities.
 
-### Anything Else
+Familiar with:
+- Web Frontend: Angular, Vue.
+- Web Backend: PHP, NodeJS, Java, Golang, Python.
+- Mobile: Flutter.
+- Cloud Platform: AWS, GCP.
+- Tools: Jenkins, Docker, SonarQube.
+
+###### 🌚 I'm a Nocturn and Loving Cats 🐈.
 
 <img align="right" width="320px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rez-f&layout=compact&theme=radical&hide=HTML,CSS&langs_count=10">
 

@@ -4,12 +4,14 @@ Software Development, Cybersecurity, Cloud Computing & DevOps is my main interes
 
 Familiar with:
 - Web Frontend: Angular, Vue.
-- Web Backend: PHP, NodeJS, Java, Golang, Python.
+- Web Backend: PHP, NodeJS, Java, Python.
 - Mobile: Flutter.
 - Cloud Platform: AWS, GCP.
 - Tools: Jenkins, Docker, SonarQube.
 
 ###### 🌚 I'm a Nocturn and Loving Cats 🐈.
+
+[![Familiar With](https://skillicons.dev/icons?i=angular,vue,php,js,nodejs,java,python,dart,docker)](https://skillicons.dev)
 
 <img align="right" width="320px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rez-f&layout=compact&theme=radical&hide=HTML,CSS&langs_count=10">
 

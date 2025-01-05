@@ -7,11 +7,11 @@ Familiar with:
 - Web Backend: PHP, NodeJS, Java, Python.
 - Mobile: Flutter.
 - Cloud Platform: AWS, GCP.
-- Tools: Jenkins, Docker, SonarQube.
+- Tools: Gitlab CI, Jenkins, Docker, Kubernetes, Terraform, SonarQube.
 
 ###### 🌚 I'm a Nocturn and Loving Cats 🐈.
 
-[![Familiar With](https://skillicons.dev/icons?i=angular,vue,php,js,nodejs,java,python,dart,docker)](https://skillicons.dev)
+[![Familiar With](https://skillicons.dev/icons?i=aws,gcp,gitlab,docker,kubernetes,linux,angular,vue,php,js,bash,java,python,dart,laravel,nodejs,flutter)](https://skillicons.dev)
 
 <img align="right" width="320px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rez-f&layout=compact&theme=radical&hide=HTML,CSS&langs_count=10">
 

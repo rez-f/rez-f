@@ -1,13 +1,13 @@
 ## About Me
 
-Software Development, Cybersecurity, Cloud Computing & DevOps is my main interest. Currently I'm a Full Stack Developer and DevOps with application development and deployment responsibilities.
+My journey in the IT field has been an exciting exploration of various domains, including Software Development, Cloud Computing, and Cybersecurity. Currently work as DevOps Engineer.
 
 Familiar with:
 - Web Frontend: Angular, Vue.
-- Web Backend: PHP, NodeJS, Java, Python.
+- Web Backend: Laravel, NodeJS and Python.
 - Mobile: Flutter.
 - Cloud Platform: AWS, GCP.
-- Tools: Gitlab CI, Jenkins, Docker, Kubernetes, Terraform, SonarQube.
+- Tools: Jenkins, Docker, Kubernetes, Terraform, Trivy, SonarQube.
 
 ###### 🌚 I'm a Nocturn and Loving Cats 🐈.
 

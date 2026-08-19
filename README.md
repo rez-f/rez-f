@@ -17,20 +17,11 @@ I currently focus on:
 
 🛠️ Technologies & Tools
 
-Cloud & Infrastructure
-AWS · GCP · Terraform
-
-Containers & Orchestration
-Docker · Kubernetes · Helm
-
-CI/CD & DevOps
-Gitlab CI · Jenkins · Nexus Repository
-
-Security & Quality
-Aqua Security · Trivy · SonarQube · OpenText Fortify on Demand · Semgrep · Gemnasium Dependency Scanning
-
-Development Background
-Angular · Vue.js · Laravel · Node.js · Python · Flutter · Go
+- **Cloud & Infrastructure:** AWS · GCP · Terraform
+- **Containers & Orchestration:** Docker · Kubernetes · Helm
+- **CI/CD & DevOps:** GitLab CI · Jenkins · Nexus Repository
+- **Security & Quality:** Aqua Security · Trivy · SonarQube · OpenText Fortify on Demand · Semgrep · Gemnasium Dependency Scanning
+- **Development Background:** Angular · Vue.js · Laravel · Node.js · Python · Flutter · Go
 
 🌱 Beyond DevOps
 

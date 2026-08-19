@@ -1,3 +1,5 @@
+![-](lol.png)
+
 ## About Me
 
 I'm a DevOps Engineer with a background in Software Development, Cloud Computing, and Cybersecurity. My journey in IT has given me experience across the software delivery lifecycle, from building applications to designing and maintaining reliable, automated infrastructure.

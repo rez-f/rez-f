@@ -8,13 +8,13 @@ I'm a DevOps Engineer with a background in Software Development, Cloud Computing
 
 I currently focus on:
 
-🔧 CI/CD automation and DevSecOps practices
-☁️ Cloud infrastructure on AWS and GCP
-🐳 Containerization and orchestration
-🏗️ Infrastructure as Code
-🔐 DevSecOps and application security
-📊 Improving software delivery, reliability, and scalability
-🛠️ Technologies & Tools
+- 🔧 CI/CD automation and DevSecOps practices
+- ☁️ Cloud infrastructure on AWS and GCP
+- 🐳 Containerization and orchestration
+- 🏗️ Infrastructure as Code
+- 🔐 DevSecOps and application security
+- 📊 Improving software delivery, reliability, and scalability
+- 🛠️ Technologies & Tools
 
 Cloud & Infrastructure
 AWS · GCP · Terraform

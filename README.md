@@ -14,7 +14,8 @@ I currently focus on:
 - 🏗️ Infrastructure as Code
 - 🔐 DevSecOps and application security
 - 📊 Improving software delivery, reliability, and scalability
-- 🛠️ Technologies & Tools
+
+🛠️ Technologies & Tools
 
 Cloud & Infrastructure
 AWS · GCP · Terraform
